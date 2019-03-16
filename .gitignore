@@ -1,2 +1,4 @@
 sqlite.db
 config.json
+vendor/
+go-vue-template
